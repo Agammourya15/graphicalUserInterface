@@ -1,3 +1,2 @@
 # graphicalUserInterface
-
-import numpuy as np
+graphical user
